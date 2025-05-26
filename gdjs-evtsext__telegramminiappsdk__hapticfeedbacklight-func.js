@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__TelegramMiniAppSDK__HapticFeedbackLight !== "undefined"
 gdjs.evtsExt__TelegramMiniAppSDK__HapticFeedbackLight = {};
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__HapticFeedbackLight.userFunc0xb05538 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__TelegramMiniAppSDK__HapticFeedbackLight.userFunc0x92e2f8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 try {
     if (window.Telegram.WebApp.HapticFeedback) {
@@ -23,7 +23,7 @@ gdjs.evtsExt__TelegramMiniAppSDK__HapticFeedbackLight.eventsList0 = function(run
 {
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__HapticFeedbackLight.userFunc0xb05538(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__TelegramMiniAppSDK__HapticFeedbackLight.userFunc0x92e2f8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__TelegramMiniAppSDK__ExpandMiniApp !== "undefined") {
 gdjs.evtsExt__TelegramMiniAppSDK__ExpandMiniApp = {};
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__ExpandMiniApp.userFunc0x11a3f50 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__TelegramMiniAppSDK__ExpandMiniApp.userFunc0x9350a0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 window.Telegram.WebApp.expand();
 };
@@ -17,7 +17,7 @@ gdjs.evtsExt__TelegramMiniAppSDK__ExpandMiniApp.eventsList0 = function(runtimeSc
 {
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__ExpandMiniApp.userFunc0x11a3f50(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__TelegramMiniAppSDK__ExpandMiniApp.userFunc0x9350a0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__TelegramMiniAppSDK__ShowMainButton !== "undefined") {
 gdjs.evtsExt__TelegramMiniAppSDK__ShowMainButton = {};
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__ShowMainButton.userFunc0xcb8120 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__TelegramMiniAppSDK__ShowMainButton.userFunc0x932c18 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 try {
     const mainButton = window.Telegram.WebApp.MainButton;
@@ -39,7 +39,7 @@ gdjs.evtsExt__TelegramMiniAppSDK__ShowMainButton.eventsList0 = function(runtimeS
 {
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__ShowMainButton.userFunc0xcb8120(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__TelegramMiniAppSDK__ShowMainButton.userFunc0x932c18(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

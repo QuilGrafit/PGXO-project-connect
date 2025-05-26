@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData !== "undef
 gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData = {};
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData.userFunc0x1284720 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData.userFunc0x82d9e0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 // Ensure the gdjs._telegramExtension object exists
 if (typeof gdjs._telegramExtension === 'undefined') {
@@ -98,7 +98,7 @@ gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData.eventsList0 = functio
 {
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData.userFunc0x1284720(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData.userFunc0x82d9e0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

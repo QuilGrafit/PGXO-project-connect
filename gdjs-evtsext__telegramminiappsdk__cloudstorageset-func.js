@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__TelegramMiniAppSDK__CloudStorageSet !== "undefined") {
 gdjs.evtsExt__TelegramMiniAppSDK__CloudStorageSet = {};
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__CloudStorageSet.userFunc0x11a3f50 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__TelegramMiniAppSDK__CloudStorageSet.userFunc0x932c18 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const key = eventsFunctionContext.getArgument("key");
 const value = eventsFunctionContext.getArgument("value");
@@ -44,7 +44,7 @@ gdjs.evtsExt__TelegramMiniAppSDK__CloudStorageSet.eventsList0 = function(runtime
 {
 
 
-gdjs.evtsExt__TelegramMiniAppSDK__CloudStorageSet.userFunc0x11a3f50(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__TelegramMiniAppSDK__CloudStorageSet.userFunc0x932c18(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

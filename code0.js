@@ -54,6 +54,19 @@ gdjs.copyArray(runtimeScene.getObjects("UserName"), gdjs._1041_1077_1079_1099_10
 }
 
 
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.anyKeyReleased(runtimeScene);
+if (isConditionTrue_0) {
+{gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData.func(runtimeScene, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
+}}
+
+}
+
+
 };
 
 gdjs._1041_1077_1079_1099_1084_1103_1085_1085_1072_1103_32_1089_1094_1077_1085_1072Code.func = function(runtimeScene) {

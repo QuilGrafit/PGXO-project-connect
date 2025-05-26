@@ -61,6 +61,11 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.anyKeyReleased(runtimeScene);
 if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(8274780);
+}
+}
+if (isConditionTrue_0) {
 {gdjs.evtsExt__TelegramMiniAppSDK__InitializeAndGetUserData.func(runtimeScene, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
 }}
 
